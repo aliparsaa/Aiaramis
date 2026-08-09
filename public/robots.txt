@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://aiaramis.ir/sitemap.xml
+Sitemap: https://app.aiaramis.ir/sitemap.xml
 Disallow: /api/
